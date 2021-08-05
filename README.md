@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 -->
 
 ![alt text](https://github.com/nailahartigan/https://helpx.adobe.com/content/dam/help/en/photoshop/using/convert-color-image-black-white/jcr_content/main-pars/before_and_after/image-before/Landscape-Color.jpg "winter")
+
+![alt text](https://github.com/nailahartigan/markdown-here/raw/master/src/common/images/icon48.png "boo")
